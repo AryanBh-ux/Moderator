@@ -1,0 +1,8 @@
+discord.py
+flask
+fuzzy
+langdect
+nltk
+supabase
+dotenv
+matplotlib 
